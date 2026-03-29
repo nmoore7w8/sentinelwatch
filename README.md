@@ -1,5 +1,7 @@
 # SentinelWatch
 
+![demo](demo.png)
+
 A file integrity monitoring (FIM) system that creates cryptographic baselines of files and directories, then detects unauthorized modifications, deletions, and new file additions — similar to Tripwire.
 
 ## Features
